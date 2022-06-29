@@ -3,7 +3,7 @@
 
 
 
-# Intégration statique Furniture
+# Création Espace Admin-Membre PHP
 
 Ce repository contient le starter kit du projet Création Espace Admin-Membre PHP disponible sur [Microlead.fr](https://microlead.fr)
 
